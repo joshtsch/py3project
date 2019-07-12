@@ -8,6 +8,10 @@ Starting point for a python3 project
 
 `source bin/setup.sh`
 
+### Install Dependencies
+
+`python setup.py develop`
+
 ## Run Tests
 
 This project uses pytest for executing tests
